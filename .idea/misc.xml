@@ -4,9 +4,11 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/epita/Desktop/New folder/MQuizApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/epita/Desktop/New folder/MQuizApp/app/src/main/res/drawable/current_option_border_bg.xml" value="0.21614583333333334" />
         <entry key="..\:/Users/epita/Desktop/New folder/MQuizApp/app/src/main/res/drawable/default_option_border_bg.xml" value="0.21614583333333334" />
         <entry key="..\:/Users/epita/Desktop/New folder/MQuizApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.12" />
         <entry key="..\:/Users/epita/Desktop/New folder/MQuizApp/app/src/main/res/drawable/selected_option_border_bg.xml" value="0.12037037037037036" />
+        <entry key="..\:/Users/epita/Desktop/New folder/MQuizApp/app/src/main/res/drawable/wrong_option_border_bg.xml" value="0.21614583333333334" />
         <entry key="..\:/Users/epita/Desktop/New folder/MQuizApp/app/src/main/res/layout/activity_main.xml" value="0.22" />
         <entry key="..\:/Users/epita/Desktop/New folder/MQuizApp/app/src/main/res/layout/activity_quiz_questions.xml" value="0.22" />
         <entry key="..\:/Users/epita/Desktop/New folder/MQuizApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.21614583333333334" />
